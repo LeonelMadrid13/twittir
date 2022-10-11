@@ -5,12 +5,12 @@ export default function IndexPage() {
     <div>
       <div>
         Hello World.{' '}
-        <Link href="/about">
+        <Link href="/about/about">
           <a>About</a>
         </Link>
       </div>
       <div>
-        <Link href="/day/index.tsx">
+        <Link href="/day/index">
           <a>Day</a>
         </Link>
       </div>

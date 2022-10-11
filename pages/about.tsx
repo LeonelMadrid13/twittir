@@ -5,7 +5,8 @@ export default function AboutPage() {
     <div>
       <p>About us</p>
       <p>Hello Puta!!</p>
-      <p>Alex chupala</p>
+      <p>chupala Santa</p>
+      <img src="../images/Santa.jpg" alt="Santa Claus"/>
       <div>
         <Link href="./Greet/greet">
           <a>Greet</a>
